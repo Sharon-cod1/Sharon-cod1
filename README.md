@@ -80,22 +80,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Sharon-cod1/Lottery-Result-Checker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharon-cod1&repo=kerala-lottery-checker&theme=radical" />
-  </a>
-  <a href="https://github.com/Sharon-cod1/doorway">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharon-cod1&repo=doorway&theme=radical" />
-  </a>
-  <a href="https://github.com/Sharon-cod1/Preset-Store">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharon-cod1&repo=cinematic-frames&theme=radical" />
-  </a>
-</p>
-
----
-
 ⭐️ From [Sharon Satheesh](https://github.com/Sharon-cod1) with ❤️
 
 *"First, solve the problem. Then, write the code."* - John Johnson
