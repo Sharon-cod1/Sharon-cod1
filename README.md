@@ -43,6 +43,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-cod1&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔸 [Kerala Lottery Checker](https://github.com/Sharon-cod1/kerala-lottery-checker)
@@ -56,19 +69,6 @@
 ### 🔸 [Cinematic Frames – Lightroom Preset Store](https://github.com/Sharon-cod1/cinematic-frames)
 > E-commerce-like preset store for photographers  
 > 🛠 Django, HTML, CSS, JS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-cod1&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
