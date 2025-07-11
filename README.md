@@ -68,15 +68,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔸 [Kerala Lottery Checker](https://github.com/Sharon-cod1/kerala-lottery-checker)
+###  [Kerala Lottery Checker](https://github.com/Sharon-cod1/kerala-lottery-checker)
 > A web app to check Kerala lottery results via ticket number  
 > 🛠 Django, Bootstrap, Web Scraping
 
-### 🔸 [Doorway – Real Estate Portal](https://github.com/Sharon-cod1/doorway)
+###  [Doorway – Real Estate Portal](https://github.com/Sharon-cod1/doorway)
 > A complete property listing portal to buy, sell or rent properties  
 > 🛠 Django REST Framework, MySQL, JS
 
-### 🔸 [Cinematic Frames – Lightroom Preset Store](https://github.com/Sharon-cod1/cinematic-frames)
+###  [Cinematic Frames – Lightroom Preset Store](https://github.com/Sharon-cod1/cinematic-frames)
 > E-commerce-like preset store for photographers  
 > 🛠 Django, HTML, CSS, JS
 
