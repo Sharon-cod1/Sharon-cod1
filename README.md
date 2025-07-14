@@ -47,38 +47,37 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=tokyonight" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-cod1&layout=compact&theme=tokyonight" height="180"/>
-      </td>
-    </tr>
-  </table>
+ <!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-cod1&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</div>
+-->
+
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharon-cod1&theme=tokyonight" />
+</div>
+
 
 ---
 
 ## 🚀 Featured Projects
 
-###  [Kerala Lottery Checker](https://github.com/Sharon-cod1/kerala-lottery-checker)
-> A web app to check Kerala lottery results via ticket number  
-> 🛠 Django, Bootstrap, Web Scraping
+- 🔎 [**Kerala Lottery Checker**](https://github.com/Sharon-cod1/kerala-lottery-checker)  
+  A web app to check Kerala lottery results via ticket number  
+  🛠️ **Tech Stack**: Django, Bootstrap, Web Scraping
 
-###  [Doorway – Real Estate Portal](https://github.com/Sharon-cod1/doorway)
-> A complete property listing portal to buy, sell or rent properties  
-> 🛠 Django REST Framework, MySQL, JS
+- 🏠 [**Doorway – Real Estate Portal**](https://github.com/Sharon-cod1/doorway)  
+  A platform to buy, sell, or rent properties  
+  🛠️ **Tech Stack**: Django REST Framework, MySQL, JavaScript
 
-###  [Cinematic Frames – Lightroom Preset Store](https://github.com/Sharon-cod1/cinematic-frames)
-> E-commerce-like preset store for photographers  
-> 🛠 Django, HTML, CSS, JS
+- 🎞️ [**Cinematic Frames – Lightroom Preset Store**](https://github.com/Sharon-cod1/cinematic-frames)  
+  A digital store for photographers to browse and download presets  
+  🛠️ **Tech Stack**: Django, HTML, CSS, JavaScript
 
 ---
 
@@ -90,13 +89,19 @@
 
 ---
 
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sharonsathesh/)
+- 📧 Email: [sharonsathesh@gmail.com](mailto:sharonsathesh@gmail.com)
+
+---
+
 <div align="center">
   <b>🚀 Actively seeking opportunities in Python & Django Development</b><br>
   <i>Let’s build impactful web applications together.</i><br><br>
-  📩 <a href="mailto:sharonsathesh@gmail.com">Reach out via email</a> or connect on <a href="https://www.linkedin.com/in/sharonsathesh/">LinkedIn</a>  
+  📩 <a href="mailto:sharonsathesh@gmail.com">Reach out via email</a> or connect on <a href="https://www.linkedin.com/in/sharonsathesh/">LinkedIn</a>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sharon-cod1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
