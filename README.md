@@ -101,7 +101,3 @@
   <i>Let’s build impactful web applications together.</i><br><br>
   📩 <a href="mailto:sharonsathesh@gmail.com">Reach out via email</a> or connect on <a href="https://www.linkedin.com/in/sharonsathesh/">LinkedIn</a>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sharon-cod1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
