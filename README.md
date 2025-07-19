@@ -29,7 +29,7 @@
 - 🌱 Learning **Django REST Framework and React.js**
 - 👯 Looking to collaborate on **open-source Django projects**
 - 💬 Ask me about **Python, Django, or web development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 3 minutes**
 - 📫 How to reach me: **sharonsathesh@gmail.com**
 
 ---
@@ -94,14 +94,6 @@
 - E-commerce for Lightroom presets
 - Digital product delivery system
 - Payment gateway integration
-
----
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Django Application](https://example.com)
-- [Python Tips Every Beginner Should Know](https://example.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
