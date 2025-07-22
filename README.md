@@ -11,12 +11,6 @@
   <a href="mailto:sharonsathesh@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/yourprofile/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/yourprofile">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
 </p>
 
 ---
@@ -101,22 +95,3 @@
 - HackerRank Python (Basic) Certificate
 - HackerRank Problem Solving (Basic) Certificate
 - HackerRank SQL (Basic) Certificate
-
----
-
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharonsathesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sharonsathesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sharon-cod1&label=Profile%20views&color=0e75b6&style=flat" alt="Sharon-cod1" /> 
-</div>
