@@ -24,7 +24,6 @@
 - 👯 Looking to collaborate on **open-source Django projects**
 - 💬 Ask me about **Python, Django, or web development**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 3 minutes**
-- 📫 How to reach me: **sharonsathesh@gmail.com**
 
 ---
 
