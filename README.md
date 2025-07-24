@@ -25,7 +25,7 @@
 - 💬 Ask me about **Python, Django, or web development**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 3 minutes**
 
----
+
 
 ## 🛠️ My Tech Stack
 
