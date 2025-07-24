@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/[your_instagram_username]/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://leetcode.com/[your_username]/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
