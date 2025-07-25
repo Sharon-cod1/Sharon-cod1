@@ -8,21 +8,6 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharonsathesh/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sharonsathesh@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/shxorn?igsh=MWVsdG83M2R4ZzA4dQ%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://leetcode.com/[your_username]/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -100,13 +85,32 @@
 
 ---
 
-## 🏅 Certifications
-- HackerRank Python (Basic) Certificate
-- HackerRank Problem Solving (Basic) Certificate
-- HackerRank SQL (Basic) Certificate
+## 🎮 Coding Profiles
+
+<div>
+  <a href="https://leetcode.com/Sharon-cod1/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sharonsathesh">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</div>
 
 ---
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sharon-cod1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sharonsathesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shxorn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sharonsathesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sharon-cod1&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
+</div>
