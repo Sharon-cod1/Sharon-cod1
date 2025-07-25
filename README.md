@@ -11,7 +11,7 @@
   <a href="mailto:sharonsathesh@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/[your_instagram_username]/">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/shxorn?igsh=MWVsdG83M2R4ZzA4dQ%3D%3D&utm_source=qr)[shxorn]/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://leetcode.com/[your_username]/">
