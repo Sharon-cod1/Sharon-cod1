@@ -57,10 +57,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharon-cod1&theme=radical&margin-w=15&row=1&column=7" />
-</div>
-
 ---
 
 ## 🏆 My Projects
