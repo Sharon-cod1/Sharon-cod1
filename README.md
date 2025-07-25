@@ -1,8 +1,12 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Sharon+Satheesh;Python+Django+Developer" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Namaste+%F0%9F%99%8F%F0%9F%8F%BB;I'm+Sharon+Satheesh;Python%2FDjango+Developer;Problem+Solver;Digital+Craftsman" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate full-stack developer specializing in Python/Django from India</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Full-Stack Developer | Python & Django Specialist 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharonsathesh/">
@@ -64,8 +68,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=radical&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharon-cod1&theme=radical&margin-w=15&row=1&column=7" />
 </div>
 
 ---
