@@ -61,19 +61,19 @@
 ## 🏆 My Projects
 
 ### Kerala Lottery Checker
-[![View](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharon-cod1/kerala-lottery-checker)
+[![View](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharon-cod1/Lottery-Result-Checker)
 - Django web app to check lottery results
 - Automated web scraping for latest results
 - User-friendly interface with Bootstrap
 
 ### Doorway – Real Estate Platform
-[![View](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharon-cod1/doorway)
+[![View](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharon-cod1/Doorway)
 - Full-featured property listing system
 - Advanced search filters and map integration
 - Secure user authentication system
 
 ### Cinematic Frames
-[![View](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharon-cod1/cinematic-frames)
+[![View](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharon-cod1/Preset-Store)
 - E-commerce for Lightroom presets
 - Digital product delivery system
 - Payment gateway integration
