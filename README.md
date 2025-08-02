@@ -86,7 +86,7 @@
   <a href="https://leetcode.com/Sharon-cod1/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/profile/sharonsathesh">
+  <a href="https://www.hackerrank.com/profile/shxornig">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </div>
