@@ -118,7 +118,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sharon-cod1&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
-</div>
