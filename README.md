@@ -53,7 +53,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=nightowl&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=nightowl&hide_border=true" />
 </div>
 
 ---
