@@ -52,9 +52,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=nightowl&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=nightowl&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-cod1&layout=compact&theme=nightowl&hide_border=true" />
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sharon-cod1&show_icons=true&theme=nightowl&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-cod1&theme=nightowl&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-cod1&layout=compact&theme=nightowl&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
