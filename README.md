@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Full-Stack Developer | Python & Django Specialist 
+  Full-Stack Developer | Frontend Developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
