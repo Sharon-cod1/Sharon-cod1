@@ -18,7 +18,7 @@
 - 🌱 Learning **Django REST Framework and React.js**
 - 👯 Looking to collaborate on **open-source Django projects**
 - 💬 Ask me about **Python, Django, or Frontend Development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 3 minutes**
+- ⚡ Fun fact : **I can solve a Rubik's cube in under 3 minutes**
 
 
 
